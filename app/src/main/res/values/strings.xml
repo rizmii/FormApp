@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FormApp</string>
+    <string name="name">Nama</string>
+    <string name="noTelepon">Nomor Telepon</string>
+    <string name="alamat">Alamat</string>
+    <string name="btnsubmit">Submit</string>
+    <string name="btnback">Back</string>
+</resources>
